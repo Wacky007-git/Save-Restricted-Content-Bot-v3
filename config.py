@@ -34,4 +34,4 @@ FREEMIUM_LIMIT = int(os.getenv("FREEMIUM_LIMIT", "0"))
 PREMIUM_LIMIT = int(os.getenv("PREMIUM_LIMIT", "500"))
 JOIN_LINK = os.getenv("JOIN_LINK", "https://t.me/i0876gfhjh") # this link for start command message
 ADMIN_CONTACT = os.getenv("ADMIN_CONTACT", "https://t.me/newtelegramid")
-CHANNEL_ID = int(getenv("CHANNEL_ID", "-1002360780452"))
+CHANNEL_ID = OS.getenv("CHANNEL_ID", "-1002360780452")
